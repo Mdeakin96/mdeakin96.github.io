@@ -1,0 +1,38 @@
+body	{font-family: Bahnschrift, Arial;
+			font-size:12pt; color:#F0FFFF; background-color:#8FBC8F}
+			
+h1		{font-family: Wide Latin, Arial;
+			font-size:28pt;text-shadow: 1px 1px 10px #F0E68C;
+			color: #F0FFFF;}
+			
+h2		{font-family: Bahnschrift, Arial;
+			font-size:16pt;text-shadow: 1px 1px 10px #F0E68C;
+			color: #F0FFFF;}
+			
+h3		{font-family: Bahnschrift, Arial;
+			font-size:14pt;text-shadow: 1px 1px 10px #F0E68C;
+			color: #F0FFFF;}
+						
+a:visited		{color: #F0FFFF;}
+
+a				{color: #F0FFFF;}
+
+	p		{margin-left: 30pt; margin-right:30pt;
+			text-align: center;}
+			
+table	{width: 80%;
+		margin-left: auto;
+		margin-right: auto;
+		border: 1px solid #F0FFFF; }
+		
+th,td	{border: 1px solid #F0FFFF;}
+
+th.gray {background-color:#595959;}
+
+th.silver {background-color:#d8d8ce;}
+
+th.bronze {background-color:#996600;}
+
+
+
+			
